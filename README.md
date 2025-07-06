@@ -1,5 +1,7 @@
+
 🎮 Proyectos Indie en Unity 2D
-¡Bienvenido! Soy un desarrollador independiente en formación, creando videojuegos en Unity 2D con C#, combinando creatividad, diseño visual y código. Cada proyecto es parte de mi proceso de aprendizaje, enfocado en dominar las bases del desarrollo de videojuegos y construir un portfolio sólido.
+¡Bienvenido! Soy un desarrollador independiente en formación, creando videojuegos en Unity 2D con C#, combinando creatividad, diseño visual y código. Cada proyecto es parte de mi proceso de aprendi![WhatsApp Image 2025-07-06 at 18 02 33](https://github.com/user-attachments/assets/0c104765-8b32-459b-864a-c03da6fa4c46)
+zaje, enfocado en dominar las bases del desarrollo de videojuegos y construir un portfolio sólido.
 
 🌿 Malva
 Malva es un juego de plataformas 2D con estética colorida y estilo cartoon, centrado en la recolección de objetos, saltos precisos y exploración ligera.
