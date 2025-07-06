@@ -1,7 +1,8 @@
 
 
 ![WhatsApp Image 2025-07-06 at 18 02 33](https://github.com/user-attachments/assets/3bcd42f8-0fbd-4721-8e66-23aeff6454d8)
-![WhatsApp Image 2025-07-06 at 18 02 33](https://github.com/user-attachments/assets/521f440f-6d37-4635-8567-85132fb51f22)
+![ChatGPT Image 6 jul 2025, 07_27_11 p m](https://github.com/user-attachments/assets/6acd2c6b-f41b-4cca-8592-f70f021036d0)
+
 
 
 🎮 Proyectos Indie en Unity 2D
