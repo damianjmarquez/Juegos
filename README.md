@@ -1,4 +1,7 @@
 
+
+![WhatsApp Image 2025-07-06 at 18 02 33](https://github.com/user-attachments/assets/3bcd42f8-0fbd-4721-8e66-23aeff6454d8)
+
 🎮 Proyectos Indie en Unity 2D
 ¡Bienvenido! Soy un desarrollador independiente en formación, creando videojuegos en Unity 2D con C#, combinando creatividad, diseño visual y código. Cada proyecto es parte de mi proceso de aprendi
 zaje, enfocado en dominar las bases del desarrollo de videojuegos y construir un portfolio sólido.
