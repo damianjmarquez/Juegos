@@ -1,7 +1,14 @@
 
 
-![WhatsApp Image 2025-07-06 at 18 02 33](https://github.c<img width="1536" height="1024" alt="Arana" src="https://github.com/user-attachments/assets/cdabae8d-fd81-40f7-a116-e628fc4ba03c" />
-om/user-attachments/assets/3bcd42f8-0fbd-4721-8e66-23aeff6454d8)
+
+<img width="1536" height="1024" alt="Arana" src="https://github.com/user-attachments/assets/990c27bd-e12b-4ab7-9f24-c5dee8e515ad" />
+
+
+
+
+
+![Zelta](https://github.com/user-attachments/assets/cc74619a-8bbe-4d0b-a4c1-5979a5103eda)
+
 ![ChatGPT Image 6 jul 2025, 07_27_11 p m](https://github.com/user-attachments/assets/6acd2c6b-f41b-4cca-8592-f70f021036d0)
 
 
