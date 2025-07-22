@@ -1,6 +1,7 @@
 
 
-![WhatsApp Image 2025-07-06 at 18 02 33](https://github.com/user-attachments/assets/3bcd42f8-0fbd-4721-8e66-23aeff6454d8)
+![WhatsApp Image 2025-07-06 at 18 02 33](https://github.c<img width="1536" height="1024" alt="Arana" src="https://github.com/user-attachments/assets/cdabae8d-fd81-40f7-a116-e628fc4ba03c" />
+om/user-attachments/assets/3bcd42f8-0fbd-4721-8e66-23aeff6454d8)
 ![ChatGPT Image 6 jul 2025, 07_27_11 p m](https://github.com/user-attachments/assets/6acd2c6b-f41b-4cca-8592-f70f021036d0)
 
 
